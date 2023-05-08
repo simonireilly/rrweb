@@ -1,5 +1,7 @@
 # rrweb-snapshot
 
+## 2.0.0-alpha.9
+
 ## 2.0.0-alpha.8
 
 ### Minor Changes

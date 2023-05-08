@@ -1,5 +1,13 @@
 # @rrweb/web-extension
 
+## 2.0.0-alpha.9
+
+### Patch Changes
+
+- Updated dependencies [[`ebcbe8b`](https://github.com/rrweb-io/rrweb/commit/ebcbe8b0d746a0a4c07d3530387f920900f35215)]:
+  - rrweb@2.0.0-alpha.9
+  - rrweb-player@2.0.0-alpha.9
+
 ## 2.0.0-alpha.8
 
 ### Patch Changes

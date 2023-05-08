@@ -1,5 +1,16 @@
 # rrweb
 
+## 2.0.0-alpha.9
+
+### Patch Changes
+
+- [#1214](https://github.com/rrweb-io/rrweb/pull/1214) [`ebcbe8b`](https://github.com/rrweb-io/rrweb/commit/ebcbe8b0d746a0a4c07d3530387f920900f35215) Thanks [@wfk007](https://github.com/wfk007)! - perf: optimize the performance of record in processMutation phase
+
+- Updated dependencies []:
+  - rrweb-snapshot@2.0.0-alpha.9
+  - rrdom@2.0.0-alpha.9
+  - @rrweb/types@2.0.0-alpha.9
+
 ## 2.0.0-alpha.8
 
 ### Minor Changes
